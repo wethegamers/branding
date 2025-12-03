@@ -1,113 +1,95 @@
-# kubefirst branding
+# WeTheGamers (WTG) Branding
 
-![kubefirst Logo](logo/kubefirst-light-vertical.svg#gh-dark-mode-only)![kubefirst Logo](logo/kubefirst-dark-vertical.svg#gh-light-mode-only)
+![WTG Logo](logo/wtg-light-full.svg#gh-dark-mode-only)![WTG Logo](logo/wtg-dark-full.svg#gh-light-mode-only)
 
-More information on how to use Kubefirst, the company, and kubefirst, the product branding will be added here soon.
-
-Before using our brand (except for the repository badges) ensure you had confirmation from our team by contact us by [email](mailto:info@kubefirst.io).
+Official branding assets for WeTheGamers (WTG) - a community-driven gaming platform built on Kubernetes.
 
 - [Important Links](#important-links)
-- [Company Description](#company-description)
-- [Company History](#company-history)
+- [About WTG](#about-wtg)
 - [Logos](#logos)
-- [Repository Badges](#repository-badges)
+- [Usage Guidelines](#usage-guidelines)
 
 ## Important Links
 
 ### Main
 
-- Website: <https://kubefirst.io>
-- Blog: <https://kubefirst.io/blog/>
-- YouTube: <https://www.youtube.com/@kubefirst>
-- Slack Community: <https://kubefirst.io/slack>
+- Website: <https://wethegamers.org>
+- Platform: <https://wtgg.org>
+- GitHub: <https://github.com/wethegamers>
 
-### Product Related
+### Community
 
-- GitHub: <https://github.com/kubefirst/kubefirst/>
-- Documentations: <https://docs.kubefirst.io>
+- Discord: Join our gaming community on Discord
 
-### Social Media
+### Infrastructure
 
-- Twitter: <https://twitter.com/kubefirst>
-- LinkedIn: <https://www.linkedin.com/company/kubefirst/>
-- Instagram: <https://www.instagram.com/kubefirst>
+- GitOps: <https://github.com/wethegamers/gitops>
+- Operations: <https://github.com/wethegamers/operations>
 
-### Others
-
-- CNCF Landscape: <https://landscape.cncf.io/?item=provisioning--automation-configuration--kubefirst>
-- Public Speakers @ kubefirst: <https://github.com/kubefirst/speaking/>
-
-## Company Description
-
-No modifications are allowed, including truncation of longer versions. If you need a different length or a description of kubefirst with a specific focus, [let us know](mailto:info@kubefirst.io).
+## About WTG
 
 ### Short
 
-> 23 words, 1 sentence, 182 characters
-
-kubefirst provides fully automated open source application delivery and infrastructure management GitOps platforms delivering the best cloud native tools working together in minutes.
+> WeTheGamers is a community-driven gaming platform providing infrastructure and tools for gamers, built on modern cloud native technologies.
 
 ### Medium
 
-> 76 words, 3 sentences, 508 characters
-
-kubefirst provides fully automated open source application delivery and infrastructure management GitOps platforms delivering the best cloud native tools working together in minutes. Supporting Amazon Web Service (AWS), Google Cloud, Civo, DigitalOcean, and Vultr clouds, you have the choice to use GitHub or GitLab as your Git provider. Using the CLI or the simple UI, you will end up with a full-fledged production ready Kubernetes cluster with tools like Argo CD, HashiCorp Vault, Terraform, and Atlantis.
-
-### Long
-
-> 460 words, 7 sentences, 1325 characters
-
-kubefirst provides fully automated open source application delivery and infrastructure management GitOps platforms delivering the best cloud native tools working together in minutes.
-
-Supporting Amazon Web Service (AWS), Google Cloud, Civo, DigitalOcean, and Vultr clouds, you have the choice to use GitHub or GitLab as your Git provider. Using the CLI or the simple UI, you will end up with a full-fledged production ready Kubernetes cluster with tools like Argo CD, HashiCorp Vault, Terraform, and Atlantis.
-
-All applications are managed by Argo CD using a single GitOps Git repository that you get to host and extend in any direction. The Terraform and Atlantis setup produces an audit log of all system changes in the single GitOps Git repository that also manages all your Infrastructure as Code (IaC) and resources. kubefirst provides a user platform and Single Sign-On (SSO) OIDC provider powered by HashiCorp Vault which is integrated throughout all of the platform tools, and used as the exclusive source of truth for all secrets.
-
-All in all, kubefirst is your one-stop tool to create production-ready Kubernetes platforms in minutes instead of months, so that teams of any size can instantly leverage the value that Kubernetes provides by starting with the most popular tools and adjusting the platform from there.
-
-## Company History
-
-In 2017, [John Dietz](https://github.com/kubefirst/speaking/blob/main/speakers/john.md) and [Jared Edwards](https://github.com/kubefirst/speaking/blob/main/speakers/jared.md) met while working together on a cloud engineering team at a real estate big data startup. They were tasked with building an infrastructure management platform and application delivery system built entirely on Kubernetes.
-
-Building their first Kubernetes platform together took the better part of a year, and eventually John and Jared moved on to do the same thing for other companies looking to adopt cloud native. Despite their experience building infrastructure and deployment platforms, they were surprised to discover that it consistently took many months to build a great Kubernetes platform from scratch - even when you know what you’re doing.
-
-Frustrated by the time consuming process, John and Jared began working together during nights and weekends to create an open-source solution to automate the process of platform provisioning, and the kubefirst project was born. In 2022, kubefirst was [acquired by Kubeshop](https://kubefirst.io/blog/kubeshop-acquires-kubefirst-gitops-infrastructure-application-delivery-platform/).
+> WeTheGamers (WTG) is a community-driven gaming platform built on Kubernetes, providing gamers with the infrastructure and tools they need to play, connect, and create together. Our platform leverages GitOps practices with ArgoCD, HashiCorp Vault for secrets management, and Tailscale for secure networking across our multi-cluster environment.
 
 ## Logos
 
-Our logo is a combination of the name of the company, which is also the name of our product, and our mascot, named K-Ray. K-Ray is a beautiful, and friendly manta ray voyaging in the cloud native space.
+Our logo represents the WeTheGamers community. We have both full logos and AGIS bot-specific logos available.
 
-When it's possible, we prefer that you use the horizontal version of our logo. Please use the full logo: do not separate K-Ray from the company name.
+### Full Logos
 
-- [Black text (horizontal)](logo/kubefirst-dark.svg)
-- [White text (horizontal)](logo/kubefirst-light.svg)
-- [Black text (vertical)](logo/kubefirst-dark-vertical.svg)
-- [White text (vertical)](logo/kubefirst-light-vertical.svg)
+Use these for general WTG branding:
 
-Those are vector SVG files, but if you need another format, or an image of specific dimensions, [let us know](mailto:info@kubefirst.io): we will send you the requested format(s) or size(s).
+- [Light background version](logo/wtg-dark-full.svg) - Dark text for light backgrounds
+- [Dark background version](logo/wtg-light-full.svg) - Light text for dark backgrounds
 
-## Repository Badges
+### AGIS Bot Logos
 
-If you want to show your support with a badge on your repository, as in "powered by kubefirst", you can use the following badges.
+Use these specifically for AGIS Discord bot branding:
 
-![Powered by kubefirst](logo/badge-dark.svg#gh-dark-mode-only)![Powered by kubefirst](logo/badge-light.svg#gh-light-mode-only)
+- [Light background version](logo/wtg-agis-dark-flat.svg) - Dark version for light backgrounds
+- [Dark background version](logo/wtg-agis-light-flat.svg) - Light version for dark backgrounds
 
-- [Badge for dark background](logo/badge-dark.svg)
-- [Black for light background](logo/badge-light.svg)
+### Reactive Logo Example
 
-Here's a code snippet you can use to do so:
+For GitHub READMEs that automatically switch based on user theme preference:
 
-```markdown
-![Powered by kubefirst](logo/badge-dark.svg#gh-dark-mode-only)![Powered by kubefirst](logo/badge-light.svg#gh-light-mode-only)
-```
+\`\`\`markdown
+![WTG Logo](logo/wtg-light-full.svg#gh-dark-mode-only)![WTG Logo](logo/wtg-dark-full.svg#gh-light-mode-only)
+\`\`\`
 
-Here's one using HTML:
+Using HTML for more control:
 
-```html
+\`\`\`html
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="badge-dark.svg" alt="Kubefirst Logo">
-    <img alt="" src="badge-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="logo/wtg-light-full.svg" alt="WTG Logo">
+    <img alt="WTG Logo" src="logo/wtg-dark-full.svg">
 </picture>
-```
+\`\`\`
 
-_You can add HTML inside your README Markdown file, useful if you want to center them as example._
+## Usage Guidelines
+
+### Do
+
+- Use the appropriate logo variant for your background color
+- Maintain the logo's aspect ratio when resizing
+- Provide adequate spacing around the logo
+
+### Don't
+
+- Modify the logo colors
+- Add effects or filters to the logo
+- Stretch or distort the logo
+- Use the logo in a way that implies endorsement without permission
+
+## Contact
+
+For branding questions or requests for additional formats/sizes, please open an issue in this repository or contact the WTG team.
+
+## License
+
+See [LICENSE](LICENSE) for details on usage rights.
