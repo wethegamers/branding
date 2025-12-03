@@ -1,10 +1,12 @@
 # Branding Repository - AI Coding Agent Instructions
 
-**Version**: 1.0.0  
-**Last Updated**: 2025-11-30  
+**Version**: 1.1.0  
+**Last Updated**: 2025-12-03  
 **Repository**: wethegamers/branding
 
 > **Master Instructions**: See `/home/seb/wtg/.github/copilot-instructions.md` for platform-wide standards.
+
+> **VS Code Prompts**: Shared prompt files at `github.com/wethegamers/.github`.
 
 ---
 
